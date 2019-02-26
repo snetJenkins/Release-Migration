@@ -1,0 +1,1 @@
+create table demo_table (column1 varchar2(4000));
